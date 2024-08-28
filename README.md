@@ -18,7 +18,7 @@ Back then, I had no knowledge of programming. The first markup-language I learne
                   ### Socials
                   
                   
-                <p align="left">
+<p align="left">
                       <a href="https://discord.com/users/vuozu" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
