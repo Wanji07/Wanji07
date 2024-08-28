@@ -1,7 +1,7 @@
 Hi 👋 My name is Wanji !
 ========================
 
-\- Aspiring Front-End Developer
+\- Aspiring Front-End Developer (currently 16 y.o)
 -------------------------------
 
 The first markup-language I learned is HTML. It introduced me to the fundamental concepts of coding, teaching me how to think like a programmer and develop critical problem-solving skills. Since grade 9, I've recognized my passion for coding and have been actively pursuing knowledge in the field. I know there are still areas I need to master, and I'm eager to continue learning to prepare for my future career.
