@@ -1,4 +1,4 @@
-Hi 👋 My name is Wanji !
+Hi 👋, My name is Wanji !
 ========================
 
 \- Aspiring Front-End Developer
