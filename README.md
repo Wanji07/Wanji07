@@ -1,10 +1,10 @@
 Hi 👋 My name is Wanji !
 ========================
 
-\- Aspiring Front-End Developer (currently 16 y.o)
+\- Aspiring Front-End Developer
 -------------------------------
 
-The first markup-language I learned is HTML. It introduced me to the fundamental concepts of coding, teaching me how to think like a programmer and develop critical problem-solving skills. Since grade 9, I've recognized my passion for coding and have been actively pursuing knowledge in the field. I know there are still areas I need to master, and I'm eager to continue learning to prepare for my future career.
+The first markup-language I learned is HTML. It introduced me to the fundamental concepts of coding, teaching me how to think like a programmer and develop critical problem-solving skills. I've recognized my passion for coding and have been actively pursuing knowledge in the field. I know there are still areas I need to master, and I'm eager to continue learning to prepare for my future career.
 
 *   🌍  I'm based in Quezon City, Philippines
 *   ✉️  You can contact me at [ewilliammiguel@gmail.com](mailto:ewilliammiguel@gmail.com)
