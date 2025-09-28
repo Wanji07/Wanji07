@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Project Momentum**
 
-- 🌱 I’m currently learning **React.js, Tailwind**
+- 🌱 I’m currently learning **React.js, Tailwind, and Java**
 
 - 📫 How to reach me **ewilliammiguel@gmail.com**
 
