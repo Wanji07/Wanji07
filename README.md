@@ -1,11 +1,11 @@
-<h1 align="center">Mabuhay 👋, I'm Wanji!</h1>
+<h1 align="center">Mabuhay 👋, I'm William!</h1>
 <h3 align="center">A passionate aspiring Full-Stack Developer from the Philippines</h3>
 
 - 🔭 I’m currently working on **Project Momentum & Lakbay SBHS**
 
 - 🌱 I’m currently learning **React.js, Tailwind, and Java**
 
-- 📫 How to reach me **ewilliammiguel@gmail.com**
+- 📫 How to reach me: **ewilliammiguel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
