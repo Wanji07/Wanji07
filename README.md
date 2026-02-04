@@ -1,9 +1,9 @@
 <h1 align="center">Mabuhay 👋, I'm William!</h1>
 <h3 align="center">A passionate aspiring Full-Stack Developer from the Philippines</h3>
 
-- 🔭 I’m currently working on **Project Momentum & Lakbay SBHS**
+- 🔭 I’m currently working on **Lakbay SBHS and AAA Company Site**
 
-- 🌱 I’m currently learning **React.js, Tailwind, and Java**
+- 🌱 I’m currently learning **MERN Stack and Java**
 
 - 📫 How to reach me: **ewilliammiguel@gmail.com**
 
