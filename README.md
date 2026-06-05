@@ -1,6 +1,6 @@
 <h1 align="center">Mabuhay 👋, I'm William (Wanji)</h1>
 <h3 align="center">
-Aspiring Full-Stack Developer 🇵🇭 <br/>
+Aspiring Full-Stack Developer<br/>
 Building projects, learning in public, and turning ideas into software.
 </h3>
 
@@ -8,7 +8,6 @@ Building projects, learning in public, and turning ideas into software.
   <img src="https://komarev.com/ghpvc/?username=wanji07&label=Visitors&color=5dbb93&style=flat" alt="wanji07" />
 </p>
 
-<hr>
 
 ## 🚀 About Me
 
@@ -18,7 +17,6 @@ Building projects, learning in public, and turning ideas into software.
 - 🏋️ Passionate about self-improvement, fitness, and continuous learning
 - 🎯 Goal: Become a professional Full-Stack Developer and build impactful softwares
 
-<hr>
 
 ## 🔨 Current Project
 
@@ -27,7 +25,6 @@ A productivity and personal management platform designed to help users organize 
 
 🔗 Repository: https://github.com/Wanji07/momentum-os
 
-<hr>
 
 ## 🛠️ Tech Stack
 
