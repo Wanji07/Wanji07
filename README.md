@@ -13,7 +13,7 @@ Building projects, learning in public, and turning ideas into software.
 
 - 🎓 Incoming BSIT student from the Philippines
 - 💻 Currently building **Momentum OS** — a productivity-focused web application
-- 🌱 Learning the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and **Java**
+- 🌱 Learning the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - 🏋️ Passionate about self-improvement, fitness, and continuous learning
 - 🎯 Goal: Become a professional Full-Stack Developer and build impactful softwares
 
