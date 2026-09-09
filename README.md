@@ -58,7 +58,7 @@ A productivity and personal management platform designed to help users organize 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30"/>
 </a>
 
-<a href="https://facebook.com/lazywanji" target="_blank">
+<a href="https://facebook.com/wanji.fb" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30"/>
 </a>
 
