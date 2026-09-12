@@ -15,10 +15,7 @@ Building real projects, learning by doing, and turning ideas into software.
 
 * 🎓 BSIT student from the Philippines
 * 💻 Full-stack developer focused on the **MERN Stack**
-* 🛠️ Building projects independently through **Reference-Driven Development**
 * 🌱 Currently deepening my knowledge of **authentication, security, and production architecture**
-* 🧠 Learning by building rather than just following tutorials
-* 🏋️ Interested in self-improvement, fitness, and continuous learning
 * 🎯 Goal: Become a professional Full-Stack Developer and build software that people actually find useful
 
 ---
