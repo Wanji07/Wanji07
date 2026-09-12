@@ -13,10 +13,10 @@ Building real projects, learning by doing, and turning ideas into software.
 
 ## 🚀 About Me
 
-* 🎓 BSIT student from the Philippines
-* 💻 Full-stack developer focused on the **MERN Stack**
-* 🌱 Currently deepening my knowledge of **authentication, security, and production architecture**
-* 🎯 Goal: Become a professional Full-Stack Developer and build software that people actually find useful
+* 🎓 First-year BSIT student from the Philippines
+* 💻 Currently developing my skills as a Full-Stack Developer, primarily through the MERN stack
+* ⚙️ Long-term goal: grow from Full-Stack Developer → DevOps Engineer → AI Engineer
+* 🎯 Learning by building, improving through every project, and gradually moving toward larger and more complex systems
 
 ---
 
