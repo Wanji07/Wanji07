@@ -1,55 +1,118 @@
 <h1 align="center">Mabuhay 👋, I'm William (Wanji)</h1>
+
 <h3 align="center">
-Aspiring Full-Stack Developer<br/>
-Building projects, learning in public, and turning ideas into software.
+BSIT Student • Full-Stack Developer in Progress<br/>
+Building real projects, learning by doing, and turning ideas into software.
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wanji07&label=Visitors&color=5dbb93&style=flat" alt="wanji07" />
 </p>
 
- 
+---
+
 ## 🚀 About Me
 
-- 🎓 Incoming BSIT student from the Philippines
-- 💻 Currently building **Momentum OS** — a productivity-focused web application
-- 🌱 Learning the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- 🏋️ Passionate about self-improvement, fitness, and continuous learning
-- 🎯 Goal: Become a professional Full-Stack Developer and build impactful softwares
+* 🎓 BSIT student from the Philippines
+* 💻 Full-stack developer focused on the **MERN Stack**
+* 🛠️ Building projects independently through **Reference-Driven Development**
+* 🌱 Currently deepening my knowledge of **authentication, security, and production architecture**
+* 🧠 Learning by building rather than just following tutorials
+* 🏋️ Interested in self-improvement, fitness, and continuous learning
+* 🎯 Goal: Become a professional Full-Stack Developer and build software that people actually find useful
 
+---
 
-## 🔨 Current Project
+## 🔨 Current Focus
 
-### 🚀 Momentum OS
-A productivity and personal management platform designed to help users organize tasks, notes, habits, and goals in one place.
+### 🔐 Authentication & Web Security
+
+Currently building an authentication system to strengthen my understanding of:
+
+* Password hashing with bcrypt
+* JWT authentication
+* Access & refresh tokens
+* Secure cookies
+* Authentication middleware
+* Authorization & protected routes
+* Email verification
+* Password reset flows
+* XSS & CSRF mitigation
+* Production security practices
+
+This is my next step from building CRUD applications toward building complete, user-based full-stack applications.
+
+---
+
+## 🚀 Projects
+
+### ⚡ MomentumOS Alpha
+
+My first independently built MERN application.
+
+A productivity and personal management platform designed to bring tasks, notes, and dynamic dashboard widgets into one place.
+
+**Built with:**
+
+* React + TypeScript
+* Node.js + Express
+* MongoDB Atlas + Mongoose
+* Redis rate limiting
+* Tailwind CSS + DaisyUI
+* REST APIs
+* Production environment configuration
+* Render deployment
 
 🔗 Repository: https://github.com/Wanji07/momentum-os
 
+MomentumOS was built using **Reference-Driven Development (RDD)** after completing my first tutorial project, ThinkBoard.
+
+---
+
+### 📚 StudySphere — Upcoming
+
+My next independent project.
+
+StudySphere will be a learning-focused platform where I apply the concepts I'm currently learning around:
+
+* Authentication
+* User accounts
+* Protected resources
+* Authorization
+* Persistent sessions
+* Email verification
+* Production-ready backend architecture
+
+The goal is not just to build another project, but to apply what I've learned without relying on step-by-step tutorials.
+
+---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 </p>
 
-### Backend
+### Backend & Database
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-### Tools
+### Tools & Other Technologies
+
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 </p>
-
 
 ## 🌐 Connect With Me
 
@@ -61,11 +124,10 @@ A productivity and personal management platform designed to help users organize 
 <a href="https://facebook.com/wanji.fb" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30"/>
 </a>
-
 </p>
 
-📫 **Email:** ewilliammiguel@gmail.com
+📫 **Email:** [ewilliammiguel@gmail.com](mailto:ewilliammiguel@gmail.com)
 
-<hr>
+---
 
 > "Learning by building, improving one commit at a time."
