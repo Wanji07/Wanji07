@@ -38,7 +38,6 @@ Building real projects, learning by doing, and turning ideas into software.
     .orange { fill: #ff7b72; }
     .purple { fill: #d2a8ff; }
     .pink   { fill: #ff8fd6; }
-    .green  { fill: #7ee787; }
     .white  { fill: #ffffff; }
 
     .cursor {
@@ -99,7 +98,7 @@ Building real projects, learning by doing, and turning ideas into software.
       <rect x="50" y="108" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;0;560;560;0"
+          values="0;0;520;520;0"
           keyTimes="0;0.10;0.17;0.82;1"
           dur="18s"
           repeatCount="indefinite"
@@ -112,7 +111,7 @@ Building real projects, learning by doing, and turning ideas into software.
       <rect x="50" y="138" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;0;520;520;0"
+          values="0;0;500;500;0"
           keyTimes="0;0.15;0.22;0.82;1"
           dur="18s"
           repeatCount="indefinite"
@@ -125,7 +124,7 @@ Building real projects, learning by doing, and turning ideas into software.
       <rect x="50" y="168" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;0;600;600;0"
+          values="0;0;580;580;0"
           keyTimes="0;0.20;0.28;0.82;1"
           dur="18s"
           repeatCount="indefinite"
@@ -138,7 +137,7 @@ Building real projects, learning by doing, and turning ideas into software.
       <rect x="50" y="213" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;0;610;610;0"
+          values="0;0;550;550;0"
           keyTimes="0;0.26;0.34;0.82;1"
           dur="18s"
           repeatCount="indefinite"
@@ -151,7 +150,7 @@ Building real projects, learning by doing, and turning ideas into software.
       <rect x="50" y="243" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;0;610;610;0"
+          values="0;0;560;560;0"
           keyTimes="0;0.32;0.40;0.82;1"
           dur="18s"
           repeatCount="indefinite"
@@ -164,7 +163,7 @@ Building real projects, learning by doing, and turning ideas into software.
       <rect x="50" y="273" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;0;590;590;0"
+          values="0;0;600;600;0"
           keyTimes="0;0.38;0.46;0.82;1"
           dur="18s"
           repeatCount="indefinite"
@@ -203,7 +202,7 @@ Building real projects, learning by doing, and turning ideas into software.
       <rect x="50" y="378" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;0;620;620;0"
+          values="0;0;610;610;0"
           keyTimes="0;0.57;0.66;0.82;1"
           dur="18s"
           repeatCount="indefinite"
@@ -216,7 +215,7 @@ Building real projects, learning by doing, and turning ideas into software.
       <rect x="50" y="408" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;0;600;600;0"
+          values="0;0;620;620;0"
           keyTimes="0;0.63;0.72;0.82;1"
           dur="18s"
           repeatCount="indefinite"
@@ -224,26 +223,13 @@ Building real projects, learning by doing, and turning ideas into software.
       </rect>
     </clipPath>
 
-    <!-- line 13 -->
-    <clipPath id="clip13">
-      <rect x="50" y="438" width="0" height="24">
-        <animate
-          attributeName="width"
-          values="0;0;580;580;0"
-          keyTimes="0;0.69;0.76;0.82;1"
-          dur="18s"
-          repeatCount="indefinite"
-        />
-      </rect>
-    </clipPath>
-
     <!-- closing bracket -->
-    <clipPath id="clip14">
-      <rect x="25" y="468" width="0" height="24">
+    <clipPath id="clip13">
+      <rect x="25" y="448" width="0" height="24">
         <animate
           attributeName="width"
           values="0;0;50;50;0"
-          keyTimes="0;0.74;0.78;0.82;1"
+          keyTimes="0;0.70;0.76;0.82;1"
           dur="18s"
           repeatCount="indefinite"
         />
@@ -262,7 +248,6 @@ Building real projects, learning by doing, and turning ideas into software.
       repeatCount="indefinite"
     />
 
-    <!-- identity -->
     <text x="25" y="65" class="code" clip-path="url(#clip1)">
       <tspan class="orange">const</tspan>
       <tspan class="white"> william = {</tspan>
@@ -279,66 +264,55 @@ Building real projects, learning by doing, and turning ideas into software.
     </text>
 
     <text x="50" y="155" class="code" clip-path="url(#clip4)">
-      <tspan class="white">education:</tspan>
-      <tspan class="pink"> "First-Year BSIT Student",</tspan>
+      <tspan class="white">studies:</tspan>
+      <tspan class="pink"> "BSIT Student",</tspan>
     </text>
 
     <text x="50" y="185" class="code" clip-path="url(#clip5)">
       <tspan class="white">about:</tspan>
-      <tspan class="pink"> "I learn by building real software.",</tspan>
+      <tspan class="pink"> "Building real projects &amp; learning by doing.",</tspan>
     </text>
 
-    <!-- building -->
     <text x="50" y="230" class="code" clip-path="url(#clip6)">
       <tspan class="white">building:</tspan>
       <tspan class="purple"> [</tspan>
-      <tspan class="pink">"StudySphere", "full-stack apps"</tspan>
+      <tspan class="pink">"MomentumOS", "StudySphere", "Auth Systems"</tspan>
       <tspan class="purple">],</tspan>
     </text>
 
-    <!-- current focus -->
     <text x="50" y="260" class="code" clip-path="url(#clip7)">
-      <tspan class="white">learning:</tspan>
+      <tspan class="white">stack:</tspan>
       <tspan class="purple"> [</tspan>
-      <tspan class="pink">"Authentication", "Web Security"</tspan>
+      <tspan class="pink">"MERN", "TypeScript", "TailwindCSS"</tspan>
       <tspan class="purple">],</tspan>
     </text>
 
     <text x="50" y="290" class="code" clip-path="url(#clip8)">
-      <tspan class="white">stack:</tspan>
-      <tspan class="pink"> "React + TypeScript + Node + MongoDB",</tspan>
+      <tspan class="white">strength:</tspan>
+      <tspan class="pink"> "Reference-Driven Dev &amp; Web Security.",</tspan>
     </text>
 
     <text x="50" y="320" class="code" clip-path="url(#clip9)">
       <tspan class="white">approach:</tspan>
-      <tspan class="pink"> "Understand first. Build independently.",</tspan>
+      <tspan class="pink"> "Learn by building without tutorial dependency.",</tspan>
     </text>
 
-    <!-- journey -->
     <text x="50" y="365" class="code" clip-path="url(#clip10)">
-      <tspan class="white">journey:</tspan>
-      <tspan class="purple"> [</tspan>
-      <tspan class="pink">"Full-Stack", "DevOps", "AI Engineer"</tspan>
-      <tspan class="purple">],</tspan>
+      <tspan class="white">currentFocus:</tspan>
+      <tspan class="pink"> "JWT, Auth Middleware &amp; Web Security",</tspan>
     </text>
 
     <text x="50" y="395" class="code" clip-path="url(#clip11)">
-      <tspan class="white">method:</tspan>
-      <tspan class="pink"> "Reference-Driven Development",</tspan>
+      <tspan class="white">trajectory:</tspan>
+      <tspan class="pink"> "Full-Stack -> DevOps -> AI Engineer",</tspan>
     </text>
 
     <text x="50" y="425" class="code" clip-path="url(#clip12)">
-      <tspan class="white">goal:</tspan>
-      <tspan class="pink"> "Build systems people actually use.",</tspan>
-    </text>
-
-    <text x="50" y="455" class="code" clip-path="url(#clip13)">
       <tspan class="white">philosophy:</tspan>
-      <tspan class="pink"> "Learn. Build. Break. Understand. Improve."</tspan>
+      <tspan class="pink"> "Learning by building, improving one commit at a time."</tspan>
     </text>
 
-    <!-- closing bracket -->
-    <text x="25" y="485" class="code" clip-path="url(#clip14)">
+    <text x="25" y="465" class="code" clip-path="url(#clip13)">
       <tspan class="white">};</tspan>
     </text>
 
@@ -346,7 +320,7 @@ Building real projects, learning by doing, and turning ideas into software.
     <rect
       class="cursor"
       x="49"
-      y="510"
+      y="490"
       width="9"
       height="19"
       rx="1"
@@ -356,7 +330,6 @@ Building real projects, learning by doing, and turning ideas into software.
   </g>
 
 </svg>
-
 
 ---
 
