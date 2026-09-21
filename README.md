@@ -1,4 +1,4 @@
-<h1 align="center">Mabuhay 👋, I'm William (Wanji)</h1>
+<img width="720" height="720" alt="gemini-svg" src="https://github.com/user-attachments/assets/060386c0-7fb8-40a4-945b-8e146d9a8c10" /><h1 align="center">Mabuhay 👋, I'm William (Wanji)</h1>
 
 <h3 align="center">
 BSIT Student • Full-Stack Developer in Progress<br/>
@@ -18,8 +18,7 @@ Building real projects, learning by doing, and turning ideas into software.
 * ⚙️ Long-term goal: grow from Full-Stack Developer → DevOps Engineer → AI Engineer
 * 🎯 Learning by building, improving through every project, and gradually moving toward larger and more complex systems
 
-
-<svg width="720" height="720" viewBox="0 0 720 720"
+![Uploading gemini-svg.svg<svg width="720" height="720" viewBox="0 0 720 720"
      xmlns="http://www.w3.org/2000/svg">
 
   <style>
@@ -330,6 +329,8 @@ Building real projects, learning by doing, and turning ideas into software.
   </g>
 
 </svg>
+…]()
+
 
 ---
 
