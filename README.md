@@ -18,6 +18,346 @@ Building real projects, learning by doing, and turning ideas into software.
 * ⚙️ Long-term goal: grow from Full-Stack Developer → DevOps Engineer → AI Engineer
 * 🎯 Learning by building, improving through every project, and gradually moving toward larger and more complex systems
 
+
+<svg width="720" height="720" viewBox="0 0 720 720"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .bg {
+      fill: #16181d;
+      stroke: #34373d;
+      stroke-width: 2;
+    }
+
+    .code {
+      font-family: "Courier New", monospace;
+      font-size: 16px;
+      fill: #ffffff;
+    }
+
+    .orange { fill: #ff7b72; }
+    .purple { fill: #d2a8ff; }
+    .pink   { fill: #ff8fd6; }
+    .green  { fill: #7ee787; }
+    .white  { fill: #ffffff; }
+
+    .cursor {
+      animation: blink 1.2s steps(1) infinite;
+    }
+
+    @keyframes blink {
+      0%, 60% { opacity: 1; }
+      61%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <!-- terminal background -->
+  <rect
+    class="bg"
+    x="1"
+    y="1"
+    rx="14"
+    width="718"
+    height="718"
+  />
+
+  <!-- traffic lights -->
+  <circle cx="28" cy="26" r="7" fill="#ff5f57"/>
+  <circle cx="50" cy="26" r="7" fill="#febc2e"/>
+  <circle cx="72" cy="26" r="7" fill="#28c840"/>
+
+  <defs>
+
+    <!-- line 1 -->
+    <clipPath id="clip1">
+      <rect x="25" y="48" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;230;230;0"
+          keyTimes="0;0.06;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- line 2 -->
+    <clipPath id="clip2">
+      <rect x="50" y="78" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;430;430;0"
+          keyTimes="0;0.05;0.12;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- line 3 -->
+    <clipPath id="clip3">
+      <rect x="50" y="108" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;560;560;0"
+          keyTimes="0;0.10;0.17;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- line 4 -->
+    <clipPath id="clip4">
+      <rect x="50" y="138" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;520;520;0"
+          keyTimes="0;0.15;0.22;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- line 5 -->
+    <clipPath id="clip5">
+      <rect x="50" y="168" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;600;600;0"
+          keyTimes="0;0.20;0.28;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- line 6 -->
+    <clipPath id="clip6">
+      <rect x="50" y="213" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;610;610;0"
+          keyTimes="0;0.26;0.34;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- line 7 -->
+    <clipPath id="clip7">
+      <rect x="50" y="243" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;610;610;0"
+          keyTimes="0;0.32;0.40;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- line 8 -->
+    <clipPath id="clip8">
+      <rect x="50" y="273" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;590;590;0"
+          keyTimes="0;0.38;0.46;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- line 9 -->
+    <clipPath id="clip9">
+      <rect x="50" y="303" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;590;590;0"
+          keyTimes="0;0.44;0.52;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- line 10 -->
+    <clipPath id="clip10">
+      <rect x="50" y="348" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;620;620;0"
+          keyTimes="0;0.50;0.59;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- line 11 -->
+    <clipPath id="clip11">
+      <rect x="50" y="378" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;620;620;0"
+          keyTimes="0;0.57;0.66;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- line 12 -->
+    <clipPath id="clip12">
+      <rect x="50" y="408" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;600;600;0"
+          keyTimes="0;0.63;0.72;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- line 13 -->
+    <clipPath id="clip13">
+      <rect x="50" y="438" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;580;580;0"
+          keyTimes="0;0.69;0.76;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- closing bracket -->
+    <clipPath id="clip14">
+      <rect x="25" y="468" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;50;50;0"
+          keyTimes="0;0.74;0.78;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+  </defs>
+
+  <!-- everything clears and restarts -->
+  <g>
+    <animate
+      attributeName="opacity"
+      values="1;1;0;0;1"
+      keyTimes="0;0.82;0.85;0.98;1"
+      dur="18s"
+      repeatCount="indefinite"
+    />
+
+    <!-- identity -->
+    <text x="25" y="65" class="code" clip-path="url(#clip1)">
+      <tspan class="orange">const</tspan>
+      <tspan class="white"> william = {</tspan>
+    </text>
+
+    <text x="50" y="95" class="code" clip-path="url(#clip2)">
+      <tspan class="white">name:</tspan>
+      <tspan class="pink"> "William (Wanji)",</tspan>
+    </text>
+
+    <text x="50" y="125" class="code" clip-path="url(#clip3)">
+      <tspan class="white">role:</tspan>
+      <tspan class="pink"> "Full-Stack Developer in Progress",</tspan>
+    </text>
+
+    <text x="50" y="155" class="code" clip-path="url(#clip4)">
+      <tspan class="white">education:</tspan>
+      <tspan class="pink"> "First-Year BSIT Student",</tspan>
+    </text>
+
+    <text x="50" y="185" class="code" clip-path="url(#clip5)">
+      <tspan class="white">about:</tspan>
+      <tspan class="pink"> "I learn by building real software.",</tspan>
+    </text>
+
+    <!-- building -->
+    <text x="50" y="230" class="code" clip-path="url(#clip6)">
+      <tspan class="white">building:</tspan>
+      <tspan class="purple"> [</tspan>
+      <tspan class="pink">"StudySphere", "full-stack apps"</tspan>
+      <tspan class="purple">],</tspan>
+    </text>
+
+    <!-- current focus -->
+    <text x="50" y="260" class="code" clip-path="url(#clip7)">
+      <tspan class="white">learning:</tspan>
+      <tspan class="purple"> [</tspan>
+      <tspan class="pink">"Authentication", "Web Security"</tspan>
+      <tspan class="purple">],</tspan>
+    </text>
+
+    <text x="50" y="290" class="code" clip-path="url(#clip8)">
+      <tspan class="white">stack:</tspan>
+      <tspan class="pink"> "React + TypeScript + Node + MongoDB",</tspan>
+    </text>
+
+    <text x="50" y="320" class="code" clip-path="url(#clip9)">
+      <tspan class="white">approach:</tspan>
+      <tspan class="pink"> "Understand first. Build independently.",</tspan>
+    </text>
+
+    <!-- journey -->
+    <text x="50" y="365" class="code" clip-path="url(#clip10)">
+      <tspan class="white">journey:</tspan>
+      <tspan class="purple"> [</tspan>
+      <tspan class="pink">"Full-Stack", "DevOps", "AI Engineer"</tspan>
+      <tspan class="purple">],</tspan>
+    </text>
+
+    <text x="50" y="395" class="code" clip-path="url(#clip11)">
+      <tspan class="white">method:</tspan>
+      <tspan class="pink"> "Reference-Driven Development",</tspan>
+    </text>
+
+    <text x="50" y="425" class="code" clip-path="url(#clip12)">
+      <tspan class="white">goal:</tspan>
+      <tspan class="pink"> "Build systems people actually use.",</tspan>
+    </text>
+
+    <text x="50" y="455" class="code" clip-path="url(#clip13)">
+      <tspan class="white">philosophy:</tspan>
+      <tspan class="pink"> "Learn. Build. Break. Understand. Improve."</tspan>
+    </text>
+
+    <!-- closing bracket -->
+    <text x="25" y="485" class="code" clip-path="url(#clip14)">
+      <tspan class="white">};</tspan>
+    </text>
+
+    <!-- cursor -->
+    <rect
+      class="cursor"
+      x="49"
+      y="510"
+      width="9"
+      height="19"
+      rx="1"
+      fill="#ff8fd6"
+    />
+
+  </g>
+
+</svg>
+
+
 ---
 
 ## 🔨 Current Focus
