@@ -18,8 +18,6 @@ Building real projects, learning by doing, and turning ideas into software.
 * ⚙️ Long-term goal: grow from Full-Stack Developer → DevOps Engineer → AI Engineer
 * 🎯 Learning by building, improving through every project, and gradually moving toward larger and more complex systems
 
-<img width="720" height="720" alt="gemini-svg" src="https://github.com/user-attachments/assets/060386c0-7fb8-40a4-945b-8e146d9a8c10" />
-
 ---
 
 ## 🔨 Current Focus
